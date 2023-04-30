@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(168, 201, 175);
+}
+
+h1
+{
+    text-align: center;
+    background-color: rgb(7, 22, 1);
+    color:rgb(196, 245, 207)
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
